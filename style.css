@@ -1,5 +1,9 @@
+*{
+    color: #edb1f1;
+}
+
 body{
-    background-color: #bae8e8;
+    background-color: #680747;
     font-family: 'Balsamiq Sans', cursive;
     font-size: 30px;
 }
@@ -100,6 +104,6 @@ body{
     top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    /* color: white; */
     font-size: 100px;
 }
